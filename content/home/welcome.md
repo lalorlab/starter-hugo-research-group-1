@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: dr.lalor-and-his-team-members-in-eeg-booth.jpeg
 ---
 <br>
 
