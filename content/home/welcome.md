@@ -1,23 +1,20 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
+widget: hero
+widget_id: Welcome
+headless: true
+weight: 10
+title: Lalor Lab
 hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  columns: "1"
+  css_style: null
+  css_class: null
 ---
-
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Our lab seeks to explore quantitative modelling approaches to the analysis of sensory electrophysiology in humans. Such a framework has two important advantages over more traditional approaches to this type of research:
+
+1. It enables the examination of the neural processing of natural stimuli such as speech, music and video, thereby facilitating the flexible design of highly naturalistic cognitive neuroscience experiments.  It allows for improved spatiotemporal resolution and (accordingly) improved interpretability of non-invasively recorded neuro-electric responses to such naturalistic stimuli.
+2. It allows for improved spatiotemporal resolution and (accordingly) improved interpretability of non-invasively recorded neuro-electric responses to such naturalistic stimuli.
+
+We seek not only to develop these modelling approaches, but also to exploit them in tackling a number of specific cognitive and clinical neuroscience questions. In terms of cognition much of this work has focused on how we direct our attention to behaviorally relevant stimuli in our environment. This includes studies on visual spatial attention and more recent work on the cocktail party problem. In addition, we are interested in how we integrate visual and auditory information when processing natural speech.
